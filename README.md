@@ -1,4 +1,4 @@
-[![arXiv](https://img.shields.io/badge/arXiv-2109.03116-B31B1B.svg)](https://arxiv.org/abs/2109.03116)
+[![arXiv](https://img.shields.io/badge/arXiv-2304.xxxxx-B31B1B.svg)](https://arxiv.org/abs/2109.03116)
 [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)
 
 # Asymptotic Analysis and Neutrino Floor&Fog
@@ -42,7 +42,7 @@ Run the notebooks, and get your wants.
 
 ---
 
-If you need any further assistance or have any questions, contact me at zhangblong1036@gmail.com. And if you do use anything here please cite the paper, [Bing-Long Zhang](https://arxiv.org/abs/2304.xxxxx)
+If you need any further assistance or have any questions, contact me at zhangblong1036@foxmail.com. And if you do use anything here please cite the paper, [Bing-Long Zhang](https://arxiv.org/abs/2304.xxxxx)
 ```
 @article{a
 }

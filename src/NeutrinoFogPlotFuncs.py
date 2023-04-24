@@ -270,7 +270,7 @@ def vFogPlot2(res, m_vals, color, target):
 
     #plt.gcf().text(0.82,0.9,r'$\left(\frac{{\rm d}\ln\sigma}{{\rm d}\ln N}\right)^{-1}$',fontsize=35,color='w')
     plt.gcf().text(0.15*(1-0.01),0.16*(1+0.01),r'\bf {0} neutrino fog'.format(target),color='k',fontsize=30,alpha=0.2)
-    plt.gcf().text(0.15,0.16,r'\bf {0} neutrino fog'.format(target),color='white',fontsize=30)
+    plt.gcf().text(0.15,0.16,r'\bf {0} neutrino fog'.format(target),color='black',fontsize=30)
     return fig
 
 # The function for ploting the sensitivity curve in our paper.

@@ -23,10 +23,11 @@ Run the notebooks, and get your wants.
 * [`data/`] - data files, including neutrino fluxes, experimental exclusion limits, and the MC data
 
 # Python modules
-* [`WIMPFuncs.py`] - Functions needed to calculate WIMP rates
-* [`NeutrinoFuncs.py`] - Functions needed to calculate neutrino rates
-* [`LabFuncs.py`] - Various utilities
-* [`PlotFuncs.py`] - Plotting functions
+* [`WIMPFuncs.py`] - Functions needed to calculate WIMP rates (from Ciaran's code)
+* [`NeutrinoFuncs.py`] - Functions needed to calculate neutrino rates (from Ciaran's code)
+* [`LabFuncs.py`] - Various utilities (from Ciaran's code)
+* [`Like.py`] - Functions for wrapping and running the likelihood code (from Ciaran's code)
+* [`PlotFuncs.py`] - Plotting functions (from Ciaran's code)
 * [`NeutrinoFogFuncs.py`] - Functions for obtaining the neutrino fog data
 * [`NeutrinoFogPlotFuncs.py`] - Functions for showing the results
 

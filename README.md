@@ -32,14 +32,14 @@ Run the notebooks, and get your wants.
 * [`NeutrinoFogPlotFuncs.py`] - Functions for showing the results
 
 # Notebooks
-* [`DifferentTargets.ipynb`] - Figures 7
-* [`DiscoveryLimitCurve.ipynb`] - Figure 2
-* [`DLwithLSR.ipynb`] - Figure 3
+* [`DifferentTargets.ipynb`] - Figures 2
+* [`DiscoveryLimitCurve.ipynb`] - Figure 3
+* [`DLwithLSR.ipynb`] - Figure 4
 * [`MCLSR.ipynb`] - Producing MC pseudo-experiments for the test statistic considering the velocity of the local standard of rest(LSR)
 * [`MCNeutrino.ipynb`] - Producing MC pseudo-experiments for the test statistic only considering the neutrino fluxes
-* [`MCPlot.ipynb`] - Figure 5 & 6
+* [`MCPlot.ipynb`] - Figure 6 & 7
 * [`RegeneratingNeutrinoFog.ipynb`] - Figure 1
-* [`RegeneratingNeutrinoFloor.ipynb`] - Figure 4
+* [`RegeneratingNeutrinoFloor.ipynb`] - Figure 5
 
 ---
 

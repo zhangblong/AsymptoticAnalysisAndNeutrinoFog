@@ -7,7 +7,8 @@ Codes for reproducing results from my paper arXiv:[2304.xxxxx]
 <!-- [<img align="right" src="plots/plots_png/NuFloorExplanation.png" height="350">](https://github.com/cajohare/NeutrinoFog/raw/master/plots/plots_png/NuFloorExplanation.png) -->
 
 # Attention
-Our codes for obtaining the event rates and ploting  reference [`Ciaran's codes`](https://github.com/cajohare/NeutrinoFog/).
+Our work is based on the reference arXiv: 2109.03116.
+You can also check [`Ciaran's codes`](https://github.com/cajohare/NeutrinoFog/).
 
 # Requirements
 * [`CMasher`](https://cmasher.readthedocs.io/)

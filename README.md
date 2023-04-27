@@ -1,4 +1,4 @@
-[![arXiv](https://img.shields.io/badge/arXiv-2304.xxxxx-B31B1B.svg)](https://arxiv.org/abs/2304.13665)
+[![arXiv](https://img.shields.io/badge/arXiv-2304.13665-B31B1B.svg)](https://arxiv.org/abs/2304.13665)
 [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)
 
 # Asymptotic Analysis and Neutrino Floor&Fog

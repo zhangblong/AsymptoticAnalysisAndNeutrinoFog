@@ -1,8 +1,8 @@
-[![arXiv](https://img.shields.io/badge/arXiv-2304.xxxxx-B31B1B.svg)](https://arxiv.org/abs/2304.xxxxx)
+[![arXiv](https://img.shields.io/badge/arXiv-2304.xxxxx-B31B1B.svg)](https://arxiv.org/abs/2304.13665)
 [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)
 
 # Asymptotic Analysis and Neutrino Floor&Fog
-Codes for reproducing results from my paper arXiv:[2304.xxxxx]
+Codes for reproducing results from my paper arXiv:[2304.13665]
 ---
 <!-- [<img align="right" src="plots/plots_png/NuFloorExplanation.png" height="350">](https://github.com/cajohare/NeutrinoFog/raw/master/plots/plots_png/NuFloorExplanation.png) -->
 
@@ -44,8 +44,14 @@ Run the notebooks, and get your wants.
 
 ---
 
-If you need any further assistance or have any questions, contact me at zhangblong1036@foxmail.com. And if you do use anything here please cite the paper, [Bing-Long Zhang](https://arxiv.org/abs/2304.xxxxx)
+If you need any further assistance or have any questions, contact me at zhangblong1036@foxmail.com. And if you do use anything here please cite the paper, [Bing-Long Zhang](https://arxiv.org/abs/2304.13665)
 ```
-@article{a
+@misc{tang2023asymptotic,
+    title={Asymptotic Analysis on Binned Likelihood and Neutrino Floor},
+    author={Jian Tang and Bing-Long Zhang},
+    year={2023},
+    eprint={2304.13665},
+    archivePrefix={arXiv},
+    primaryClass={hep-ph}
 }
 ```

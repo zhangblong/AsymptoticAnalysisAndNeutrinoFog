@@ -2,7 +2,7 @@
 [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)
 
 # Asymptotic Analysis and Neutrino Floor&Fog
-Codes for reproducing results from my paper arXiv:[2304.13665]
+Codes for reproducing results from our paper arXiv:[2304.13665]
 ---
 <!-- [<img align="right" src="plots/plots_png/NuFloorExplanation.png" height="350">](https://github.com/cajohare/NeutrinoFog/raw/master/plots/plots_png/NuFloorExplanation.png) -->
 

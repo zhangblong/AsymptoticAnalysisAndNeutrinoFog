@@ -46,7 +46,7 @@ Run the notebooks, and get your wants.
 
 If you need any further assistance or have any questions, contact me at zhangblong1036@foxmail.com. And if you do use anything here please cite the paper, [Bing-Long Zhang](https://arxiv.org/abs/2304.13665)
 ```
-@misc{tang2023asymptotic,
+@article{Tang:2023xub,
     title={Asymptotic Analysis on Binned Likelihood and Neutrino Floor},
     author={Jian Tang and Bing-Long Zhang},
     year={2023},
